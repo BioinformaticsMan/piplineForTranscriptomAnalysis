@@ -1,9 +1,9 @@
 # piplineForTranscriptomAnalysis
 Transcriptom Analysis
 
-Welcome to follow our pipeline. This is all the script and corresponding demo data in the transcriptome analysis.  Feel free to download and run it. XD
+Welcome to follow our pipeline. Here are the scripts and corresponding demo data in the transcriptome analysis in my daily study.  Feel free to download and run it. XD
 
-Each rar file contains code and sample data, as well as sample results for reference.
+Each *rar file contains code and sample data, as well as sample results for reference.
 
 Of course, you can also download or view all the code directly in the script folder.
 
