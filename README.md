@@ -1,5 +1,5 @@
 # piplineForTranscriptomAnalysis
-Transcriptom Analysis
+Transcriptome Analysis
 
 Welcome to follow our pipeline. Here are the scripts and corresponding demo data in the transcriptome analysis in my daily study.  Feel free to download and run it. XD
 
